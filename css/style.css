@@ -1,0 +1,113 @@
+.main{
+    background-image: url(https://image.freepik.com/vector-gratis/coleccion-logos-motos_293731-74.jpg);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    background-color: white;
+    color: black;
+    padding-left: 100px;
+    font-size: large;
+    border-bottom: 2px solid dodgerblue;
+    margin-bottom: auto;
+}
+
+.encabezados{
+    text-decoration: underline;
+    text-decoration-color: cadetblue;
+    text-decoration-thickness: from-font;
+    margin-top: revert;
+    font-weight: 100;
+}
+
+.parrafo{
+    margin-right: 540px;
+    background-color: blanchedalmond;
+}
+
+.footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-top: 3px solid dodgerblue;
+}
+
+.afooter{
+    color: dodgerblue;
+    text-decoration: wavy;
+    margin: -7px;
+    margin-right: auto;
+}
+
+.limain{
+    list-style-type: none;
+    display: inline-flex;
+    background: #191A1A;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.limain:hover{
+    background: black;
+    color: white;
+}
+
+ul{
+    margin-bottom: auto;
+}
+
+.lidiv{
+    background: #191A1A;
+}
+
+.espacio{
+    margin: 450px;
+}
+
+
+.divimagen{
+    width: 50%;
+    
+}
+
+.diviimagen{
+    width: 100%;
+}
+
+.fondopag{
+    color: white;
+    background-color: #252222;
+    background-size: cover;
+    padding: 1px;
+    padding-bottom: 25px;
+}
+
+.video{
+    display:flex ;
+    margin: initial;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.fondovid{
+    background-color: #252222;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.texto1{
+    text-align: center;
+    width: 400px;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 200;
+    background-color: blanchedalmond;
+    margin-right: 150px;
+    
+}
